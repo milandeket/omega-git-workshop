@@ -1,3 +1,3 @@
 # omega-git-workshop
 
-ivan
+ivanivan
